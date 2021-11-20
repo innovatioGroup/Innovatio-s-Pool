@@ -1,0 +1,61 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/staca-co/staca-mainnet/de3b7a07a5c7a80320d24778300243870b612fd8/images/staca_png_icon_64x64.png",
+        "url_png_logo": "https://raw.githubusercontent.com/staca-co/staca-mainnet/de3b7a07a5c7a80320d24778300243870b612fd8/images/staca_png_icon_599x599.png",
+        "location": "Madrid, Spain",
+        "social": {
+            "twitter_handle": "",
+            "telegram_handle": "staca",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "Staca-Inc",
+            "addr": "",
+            "city": "",
+            "country": "Spain",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "",
+            "server": "",
+            "company": ""
+        }
+    },
+    "my-pool-ids": {
+        "0": "",
+        "1": ""
+    },
+    "when-satured-then-recommend": {
+        "0": "",
+        "1": ""
+    },
+    "telegram-admin-handle": {
+        "0": "javiml",
+        "1": "nlozano",
+        "2": "mariotrapiello"
+    },
+    "adapools_ext": {
+        "prometheus": {
+            "0": {
+                "name": "",
+                "type": "",
+                "key": ""
+            },
+            "1": {
+                "name": "",
+                "type": "",
+                "key": ""
+            },
+            "2":{
+                "name": "",
+                "type": "",
+                "key": ""
+            }
+        }
+    }
+}
